@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.HastaKalaShop3" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1B3A6B</item>
+        <item name="colorPrimaryVariant">#0E7C7B</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#E07B39</item>
+        <item name="colorSecondaryVariant">#E07B39</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:statusBarColor">#1B3A6B</item>
+    </style>
+</resources>
