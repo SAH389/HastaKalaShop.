@@ -100,24 +100,24 @@ git clone https://github.com/SAH389/HastaKalaShop.git
 <table>
   <tr>
     <td align="center">
-      <img src="home_screen.png" width="200"/>
+      <img src="Home Screen.png" width="200"/>
       <br/>
       <b>🏠 Home Screen</b>
     </td>
     <td align="center">
-      <img src="new_sale.png" width="200"/>
+      <img src="New Sale.png" width="200"/>
       <br/>
       <b>➕ New Sale</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="dashboard.png" width="200"/>
+      <img src="Dashboard.png" width="200"/>
       <br/>
       <b>📊 Dashboard</b>
     </td>
     <td align="center">
-      <img src="income_log.png" width="200"/>
+      <img src="Income Log.png" width="200"/>
       <br/>
       <b>📋 Income Log</b>
     </td>
