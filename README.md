@@ -128,7 +128,7 @@ git clone https://github.com/SAH389/HastaKalaShop.git
 
 ## 🎥 Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtube.com/shorts/q3kuYCvHWIQ?feature=share)
+[![Demo Video](https://img.youtube.com/vi/q3kuYCvHWIQ/0.jpg)](https://youtube.com/shorts/q3kuYCvHWIQ)
 
 > 📺 Click the image above to watch the full demo video
 
