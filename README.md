@@ -95,18 +95,43 @@ git clone https://github.com/SAH389/HastaKalaShop.git
 3. Wait for Gradle sync
 4. Click **▶ Run**
 
+## 📱 App Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="home_screen.png" width="200"/>
+      <br/>
+      <b>🏠 Home Screen</b>
+    </td>
+    <td align="center">
+      <img src="new_sale.png" width="200"/>
+      <br/>
+      <b>➕ New Sale</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="dashboard.png" width="200"/>
+      <br/>
+      <b>📊 Dashboard</b>
+    </td>
+    <td align="center">
+      <img src="income_log.png" width="200"/>
+      <br/>
+      <b>📋 Income Log</b>
+    </td>
+  </tr>
+</table>
+
 ---
 
-## 📊 App Screens
+## 🎥 Demo Video
 
-| Screen | Description |
-|--------|-------------|
-| 🏠 Home | Today's earnings, Best Seller, Quick Actions |
-| ➕ New Sale | 2-step icon-based sale logging |
-| 📊 Dashboard | Pie chart + Bar chart analytics |
-| 📋 Income Log | Sales history with date filters |
+[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtube.com/shorts/q3kuYCvHWIQ?feature=share)
 
----
+> 📺 Click the image above to watch the full demo video
+
 
 ## 🎯 Impact Goals
 
